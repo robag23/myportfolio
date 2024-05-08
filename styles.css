@@ -13,7 +13,8 @@ body {
 }
 
 nav ul {
-    list-style-type: none;
+    list-style-type: centre;
+    color: #808080;
     margin: 0;
     padding: 0;
 }
