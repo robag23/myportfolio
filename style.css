@@ -67,7 +67,7 @@ window.onscroll = function() {
     font-size: 36px;
     cursor: pointer;
 }
-.fa-facebook:hover,.fa-whatsapp:hover,.fa-wmail:hover,.fa-linkedin:hover, {
+.fa-facebook:hover,.fa-whatsapp:hover,.fa-solid fa-at:hover,.fa-linkedin:hover, {
     color: #008000;
 }
 .fab {
