@@ -73,6 +73,10 @@ window.onscroll = function() {
 .fab {
     color: #000000;
 }
+    
+.fa {
+    color: #000000;
+}
 /* footer styling */
 #footer {
     background-color: #808080;
